@@ -1,8 +1,8 @@
 body {
   font-family: Arial, sans-serif;
   font-size: 16px;
-  color: #222;
-  background-color: #fff;
+  color: #ddd;
+  background-color: #222;
   text-align: center;
   line-height: 1.4em;
 }
@@ -16,7 +16,9 @@ h3 {
   margin-top: 30px;
 }
 
-
+h1 {
+  margin-top: 50px;
+}
 
 .user-stories li {
   margin-bottom: 1em;
